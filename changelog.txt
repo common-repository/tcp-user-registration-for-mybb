@@ -1,0 +1,17 @@
+<h4>1.3.0</h4>
+<ul>
+<li>Add plugin link to TheCartPress sidebar menu</li>
+<li>Use tcp.php</li>
+</ul>
+<h4>1.2.0</h4>
+<ul>
+<li>implement custom email subject and content in settings page that will send to users after sync to mybb</li>
+</ul>
+<h4>1.1.0</h4>
+<ul>
+<li>show failed sync users in log tab</li>
+</ul>
+<h4>1.0.0</h4>
+<ul>
+<li>First release</li>
+</ul>
